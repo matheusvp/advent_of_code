@@ -10,7 +10,7 @@ Python
 
 ## Usage/Examples
 
-The repository has a folder for each year and inside of it has each day that I have completed
+The repository has a folder for each year and inside of it there is another folder with each completed day
 
 
 ## Authors
@@ -20,7 +20,7 @@ The repository has a folder for each year and inside of it has each day that I h
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details
 
 
 ## Acknowledgements
