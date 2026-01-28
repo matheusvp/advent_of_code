@@ -10,7 +10,7 @@ Python
 
 ## Usage/Examples
 
-The repository has a folder for each year and inside of it there is another folder with each completed day
+The repository has a folder for each year and inside of it there is another folder with each day
 
 
 ## Authors
